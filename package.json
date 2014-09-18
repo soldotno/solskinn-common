@@ -1,15 +1,15 @@
 {
-  "name": "hearsay-common",
+  "name": "solskinn-common",
   "private": true,
   "version": "0.0.4",
   "main": "./lib/index",
-  "description": "Common resources for Hearsay",
+  "description": "SOL mobile prototype common resources",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eiriklv/hearsay-common.git"
+    "url": "git@bitbucket.org:eiriklv/solskinn-common.git"
   },
   "keywords": [
     "scraper",

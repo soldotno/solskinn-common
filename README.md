@@ -1,6 +1,4 @@
-Hearsay common resources
-============================
+SOL mobile prototype common resources
+=====================================
 
 - Database models
-- IPC
-- Helpers
