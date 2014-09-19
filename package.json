@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:eiriklv/solskinn-common.git"
+    "url": "git@github.com:soldotno/solskinn-common.git"
   },
   "keywords": [
     "scraper",
