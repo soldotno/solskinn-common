@@ -1,4 +1,4 @@
-SOL mobile prototype common resources
-=====================================
+Solskinn Common Resources
+=========================
 
-- Database models
+- Database models for mongoose/mongodb
