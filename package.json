@@ -1,7 +1,7 @@
 {
   "name": "solskinn-common",
   "private": false,
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "./lib/index",
   "description": "SOL mobile prototype common resources",
   "scripts": {
